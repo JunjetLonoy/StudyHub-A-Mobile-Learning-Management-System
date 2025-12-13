@@ -34,18 +34,26 @@
 
 **How to Run:**  
 **1st step: Clone the repository**
+
+
 git clone <your-repo-link>
 
 
 **2nd step: Navigate to the project folder:**
+
+
 cd studyhub_app
 
 
 **3rd step: Install dependencies**
+
+
 flutter pub get
 
 
 **4th step: Run the app on an emulator or device**
+
+
 flutter run
 
 
