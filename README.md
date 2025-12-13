@@ -33,25 +33,43 @@
 
 
 **How to Run:**  
-**1st step: Clone the repository**
+**1st.Create a new Flutter project**
+
+**
+Open your terminal or command prompt and run:**
 
 
-git clone <your-repo-link>
+flutter create studyhub
 
 
-**2nd step: Navigate to the project folder:**
+**2nd. Replace the lib folder**
 
 
-cd studyhub_app
+Open the newly created project, then delete the default lib folder and paste the uploaded lib folder from the repository.
 
 
-**3rd step: Install dependencies**
+**3rd. Open the project**
+
+**
+Navigate to the project folder:**
+
+
+cd studyhub
+
+
+**4th. Install dependencies**
+
+**
+Run the following command to get all required packages:**
 
 
 flutter pub get
 
 
-**4th step: Run the app on an emulator or device**
+**5th. Launch the app**
+
+**
+Connect an emulator or device, then run:**
 
 
 flutter run
